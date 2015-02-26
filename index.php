@@ -4,6 +4,7 @@
     <title>Twilio Message Reader</title>
     <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
+    <meta content='10' http-equiv='refresh'/>
   </head>
   <body>
     <h1>Twilio Message Reader</h1>
